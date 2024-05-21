@@ -1,7 +1,6 @@
 # HTTP Crash Course & Exploration - [Traversy Media](https://youtu.be/iYM2zFP3Zn0?si=gPTQ0c0NpaXFYw3N)
 
-### 
-What is HTTP
+### What is HTTP
 - Hyper Text Transfer Protocol
 - Communication between web servers & clients
 - HTTP Requests / Responses
